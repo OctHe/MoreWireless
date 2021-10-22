@@ -4,7 +4,7 @@ MoreWireless is a project to share awesome and new papers about wireless communi
 
 The papers are mostly chosen from top conferences in the corresponding communities, including but not limited to SIGCOMM, MobiCom, NSDI, MobiSys, SenSys, INFOCOM, etc.
 
-- [Distributed Wireless Systems](./distributed_wireless_systems/README.md)
+- [Distributed Wireless Systems](./distributed_wireless_systems)
     - [Distributed MIMO](./distributed_wireless_systems/distributed_mimo.md)
     - [Distributed LoRa](./distributed_wireless_systems/lora_receiver.md)
 
