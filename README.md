@@ -4,7 +4,7 @@ MoreWireless is a project to share awesome and new papers about wireless communi
 
 The papers are mostly chosen from top conferences in the corresponding communities, including but not limited to SIGCOMM, MobiCom, NSDI, MobiSys, SenSys, INFOCOM, etc.
 
-## Paper list
+## Paper List
 
 - [Distributed Wireless Systems](./distributed_wireless_systems)
     - [Distributed MIMO](./distributed_wireless_systems/distributed_mimo.md)
@@ -15,14 +15,13 @@ The papers are mostly chosen from top conferences in the corresponding communiti
     - [LoRa Backscatter](./backscatter_communications/lora_backscatter.md)
     - [RFID and others](./backscatter_communications/RFID.md)
 
-## How to Share Paper Lists
+## How to Share Papers
 
-If someone wants to share his paper list to this project, it is recommended to use [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in GitHub.
+If someone wants to share his paper list to others with this project, it is recommended to use [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in GitHub.
 Please read the doc of pull request first.
 
-
-To add the paper list, you need to create a new directory with at least a file named as *README.md*.
-*README.md* in the sub-directory can include a brief introduction about this topic.
-You also can create other markdown files for different sub-topics of your paper list.
+To add the papers, Please create a new directory with at least a file named as *README.md*.
+*README.md* in the new directory can include a brief introduction about the papers.
+Other markdown files can list the papers with different communities.
 
 A good example please refers to the markdown in [*Distributed Wireless Systems*](./distributed_wireless_systems) directory.
