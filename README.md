@@ -4,16 +4,23 @@ MoreWireless is a project to share awesome and new papers about wireless communi
 
 The papers are mostly chosen from top conferences in the corresponding communities, including but not limited to SIGCOMM, MobiCom, NSDI, MobiSys, SenSys, INFOCOM, etc.
 
+This list is not guaranteed to contain all papers.
+
 ## Paper List
 
-- [Distributed Wireless Systems](./distributed_wireless_systems)
-    - [Distributed MIMO](./distributed_wireless_systems/distributed_mimo.md)
-    - [Distributed LoRa](./distributed_wireless_systems/lora_receiver.md)
-    - [Satellite Communications](./distributed_wireless_systems/satellite_comm.md)
+- [Wi-Fi](./WiFi)
+    - [Distributed MIMO](./WiFi/distributed_mimo.md)
+    - [MU MIMO](./WiFI/mu_mimo.md)
+    - -[Cross-technology Communications](./WiFi/CTC.md)
+- [LoRa](./LoRa)
+    - [Distributed LoRa](./LoRa/distributed_lora_receiver.md)
+    - [Parallel Decoding](./LoRa/parallel_decoding.md)
 - [Backscatter Communications](./backscatter_communications)
     - [Wi-Fi Backscatter](./backscatter_communications/wifi_backscatter.md)
     - [LoRa Backscatter](./backscatter_communications/lora_backscatter.md)
     - [RFID and others](./backscatter_communications/RFID.md)
+- [Satellite Communications](./satellite_comm)
+    - [Distributed Satellite Receiver](./satellite_comm/satellite_comm.md)
 
 ## How to Share Papers
 
