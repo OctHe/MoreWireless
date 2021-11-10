@@ -3,7 +3,7 @@
 - Manideep Dunna, Miao Meng, Po-Han Wang, Chi Zhang, Patrick Mercier, and Dinesh Bharadia, [SyncScatter: Enabling WiFi like synchronization and range for WiFi backscatter Communication](https://www.usenix.org/conference/nsdi21/presentation/dunna), USENIX NSDI, 2021.
 - Xin Liu, Zicheng Chi, Wei Wang, Yao Yao, Pei Hao, and Ting Zhu, [Verification and Redesign of OFDM Backscatter](https://www.usenix.org/conference/nsdi21/presentation/liu-xin), USENIX NSDI, 2021.
 - Q. Wang, S. Chen, J. Zhao and W. Gong, [RapidRider: Efficient WiFi Backscatter with Uncontrolled Ambient Signals](https://ieeexplore.ieee.org/abstract/document/9488716), IEEE INFOCOM, 2021.
-- Fengyuan Zhu, Yuda Feng, Qianru Li, Xiaohua Tian, and Xinbing Wang, [DigiScatter: Eﬀiciently Prototyping Large-Scale OFDMA Backscater Networks](https://dl.acm.org/doi/abs/10.1145/3386901.3388914), ACM MobiSys, 2020.
+- Fengyuan Zhu, Yuda Feng, Qianru Li, Xiaohua Tian, and Xinbing Wang, [DigiScatter: Eﬀiciently Prototyping Large-Scale OFDMA Backscatter Networks](https://dl.acm.org/doi/abs/10.1145/3386901.3388914), ACM MobiSys, 2020.
 - Jia Zhao, Wei Gong, and Jiangchuan Liu, [Towards Scalable Backscatter Sensor Mesh with Decodable Relay and Distributed Excitation](https://dl.acm.org/doi/abs/10.1145/3386901.3388942), ACM MobiSys, 2020.
 - Mohammad Rostami, Karthik Sundaresan, Eugene Chai, Sampath Rangarajan, and Deepak Ganesan, [Redefining passive in backscattering with commodity devices](https://dl.acm.org/doi/abs/10.1145/3372224.3380880), ACM MobiCom, 2020.
 - Xin Liu, Zicheng Chi, Wei Wang, Yao Yao, and Ting Zhu, [VMscatter: A Versatile MIMO Backscatter](https://www.usenix.org/conference/nsdi20/presentation/liu-xin), USENIX NSDI, 2020.
