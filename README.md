@@ -12,6 +12,7 @@ This list is not guaranteed to contain all papers.
     - [Distributed MIMO](./WiFi/distributed_mimo.md)
     - [MU MIMO](./WiFI/mu_mimo.md)
     - [Cross-technology Communications](./WiFi/CTC.md)
+    - [Cross-band channel estimation](./WiFi/channel_estimation.md)
 - [LoRa](./LoRa)
     - [Distributed LoRa](./LoRa/distributed_lora_receiver.md)
     - [Parallel Decoding](./LoRa/parallel_decoding.md)
