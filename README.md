@@ -13,15 +13,16 @@ This list is not guaranteed to contain all papers.
     - [MU MIMO](./WiFI/mu_mimo.md)
     - [Cross-technology Communications](./WiFi/CTC.md)
     - [Cross-band channel estimation](./WiFi/channel_estimation.md)
+    - [Congestion controller](./WiFi/congestion_controller.md)
 - [LoRa](./LoRa)
     - [Distributed LoRa](./LoRa/distributed_lora_receiver.md)
-    - [Parallel Decoding](./LoRa/parallel_decoding.md)
+    - [Parallel decoding](./LoRa/parallel_decoding.md)
 - [Backscatter Communications](./backscatter_communications)
-    - [Wi-Fi Backscatter](./backscatter_communications/wifi_backscatter.md)
-    - [LoRa Backscatter](./backscatter_communications/lora_backscatter.md)
+    - [Wi-Fi backscatter](./backscatter_communications/wifi_backscatter.md)
+    - [LoRa backscatter](./backscatter_communications/lora_backscatter.md)
     - [RFID and others](./backscatter_communications/RFID.md)
 - [Satellite Communications](./satellite_comm)
-    - [Distributed Satellite Receiver](./satellite_comm/satellite_comm.md)
+    - [Distributed satellite receiver](./satellite_comm/satellite_comm.md)
 
 ## How to Share Papers
 
