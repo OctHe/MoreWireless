@@ -33,4 +33,4 @@ To add the papers, Please create a new directory with at least a file named as *
 *README.md* in the new directory can include a brief introduction about the papers.
 Other markdown files can list the papers with different communities.
 
-A good example please refers to the markdown in [*Distributed Wireless Systems*](./distributed_wireless_systems) directory.
+A good example please refers to the markdown in [*Wi-Fi*](./WiFi/) directory.
