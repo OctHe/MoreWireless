@@ -10,7 +10,7 @@ This list is not guaranteed to contain all papers.
 
 - [Wi-Fi](./WiFi)
     - [Distributed MIMO](./WiFi/distributed_mimo.md)
-    - [MU MIMO](./WiFI/mu_mimo.md)
+    - [MU MIMO](./WiFi/mu_mimo.md)
     - [Cross-technology Communications](./WiFi/CTC.md)
     - [Cross-band channel estimation](./WiFi/channel_estimation.md)
     - [Congestion controller](./WiFi/congestion_controller.md)
