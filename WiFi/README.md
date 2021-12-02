@@ -7,4 +7,4 @@ This topic is related to the researches of Wi-Fi Network and OFDM communications
 - [Cross-technology communiations](./CTC.md)
 - [Cross-band channel estimation](./channel_estimation.md)
 - [Congestion controller](./congestion_controller.md)
-
+- [Multi-process demodulation](./multiprocess_demod.md)
