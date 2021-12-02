@@ -11,7 +11,7 @@
 - Renjie Zhao, Fengyuan Zhu, Yuda Feng, Siyuan Peng, Xiaohua Tian, Hui Yu, and Xinbing Wang, [OFDMA-Enabled Wi-Fi Backscatter](https://dl.acm.org/doi/abs/10.1145/3300061.3300121), ACM MobiCom, 2019.
 - Jia Zhao, Wei Gong, and Jiangchuan Liu, [Spatial Stream Backscatter Using Commodity WiFi](https://dl.acm.org/doi/abs/10.1145/3210240.3210329), ACM MobiSys, 2018.
 - Jia Zhao, Wei Gong, and Jiangchuan Liu, [X-Tandem: Towards Multi-hop Backscatter Communication with Commodity WiFi](https://dl.acm.org/doi/abs/10.1145/3241539.3241553), ACM MobiCom, 2020.
-- Pengyu Zhang, Colleen Josephson, Dinesh Bharadia, and Sachin Katti, [FreeRider: Backscatter Communication Using Commodity Radios](https://dl.acm.org/doi/abs/10.1145/3143361.3143374), ACM CoNEXT, 2017.
+- Pengyu Zhang, Colleen Josephson, Dinesh Bharadia, and Sachin Katti, [FreeRider: Backscatter Communication Using Commodity Radios](https://dl.acm.org/doi/abs/10.1145/3143361.3143374), ACM CoNEXT, 2017.
 - Pengyu Zhang, Dinesh Bharadia, Kiran Joshi, and Sachin Katti, [HitchHike: Practical Backscatter Using Commodity WiFi](https://dl.acm.org/doi/abs/10.1145/2994551.2994565), ACM SenSys, 2016.
 - Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, and Joshua R. Smith, [Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/kellogg), USENIX, 2016.
 - Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, and Joshua Smith, [Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://dl.acm.org/doi/abs/10.1145/2934872.2934894), ACM SIGCOMM, 2016.
