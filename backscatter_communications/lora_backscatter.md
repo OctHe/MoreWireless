@@ -8,4 +8,3 @@
 - Yao Peng, Longfei Shangguan, Yue Hu, Yujie Qian, Xianshang Lin, Xiaojiang Chen, Dingyi Fang, and Kyle Jamieson, [PLoRa: A Passive Long-Range Data Networks from Ambient LoRa Transmissions](https://dl.acm.org/doi/abs/10.1145/3230543.3230567), ACM SIGCOMM, 2018.
 - Vamsi Talla, Mehrdad Hessar, Bryce Kellogg, Ali Najafi, Joshua R. Smith, and Shyamnath Gollakota, [LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity](https://dl.acm.org/doi/abs/10.1145/3130970), ACM UbiComp/IMWUT, 2017.
 - Ambuj Varshney, Oliver Harms, Carlos Pérez-Penichet, Christian Rohner, Frederik Hermans, and Thiemo Voigt, [LoRea: A Backscatter Architecture that Achieves a Long Communication Range](https://dl.acm.org/doi/abs/10.1145/3131672.3131691), ACM SenSys, 2017.
-
