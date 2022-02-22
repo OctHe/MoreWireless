@@ -2,7 +2,7 @@
 
 MoreWireless is a project to share awesome and new papers about wireless communications and computer networks.
 
-The papers are mostly chosen from top conferences in the corresponding communities, including but not limited to SIGCOMM, MobiCom, MobiSys, SenSys in ACM, NSDI in USENIX, and INFOCOM, IPSN in IEEE.
+The papers are mostly chosen from top conferences and transactions in the corresponding communities, including but not limited to SIGCOMM, MobiCom, MobiSys, SenSys in ACM, NSDI in USENIX, and INFOCOM, IPSN, ToN, TCOMM, TMC, TWC in IEEE.
 
 
 ## Paper List
