@@ -1,5 +1,6 @@
 ## LoRa, Long Range, and other Backscatters
 
+- Xiuzhen Guo, Longfei Shangguan, Yuan He, Nan Jing, Jiacheng Zhang, Haotian Jiang, and Yunhao Liu,  [Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems](https://www.usenix.org/conference/nsdi22/presentation/guo), USENIX NSDI, 2022.
 - Jinyan Jiang, Zhenqiang Xu, Fan Dang, Jiliang Wang, [Long-Range Ambient LoRa Backscatter with Parallel Decoding](https://dl.acm.org/doi/abs/10.1145/3447993.3483261), ACM MobiCom, 2021.
 - Xiuzhen Guo, Longfei Shangguan, Yuan He, Jia Zhang, Haotian Jiang, Awais Ahmad Siddiqi, and Yunhao Liu, [Aloba: Rethinking ON-OFF Keying Modulation for Ambient LoRa Backscater](https://dl.acm.org/doi/abs/10.1145/3384419.3430719), ACM SenSys, 2021.
 - Mohamad Katanbaf, Jeeva Wireless and University of Washington; Anthony Weinand and Vamsi Talla, Jeeva Wireless, [Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter](https://www.usenix.org/conference/nsdi21/presentation/katanbaf), USENIX NSDI, 2021.
