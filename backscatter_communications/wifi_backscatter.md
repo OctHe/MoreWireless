@@ -1,5 +1,7 @@
 ## Wi-Fi Backscatter
 
+- Mohammad Rostami, Xingda Chen, Yuda Feng, Karthikeyan Sundaresan, and Deepak Ganesan, [MIXIQ: Re-thinking Ultra-low Power Receiver Design for Next-generation On-body Applications](https://dl.acm.org/doi/abs/10.1145/3447993.3483270), ACM MobiCom, 2021.
+- Farzan Dehbashi, Ali Abedi, Tim Brecht, and Omid Abari, [Verification: Can WiFi Backscatter replace RFID?](https://dl.acm.org/doi/abs/10.1145/3447993.3448622), ACM MobiCom, 2021.
 - Manideep Dunna, Miao Meng, Po-Han Wang, Chi Zhang, Patrick Mercier, and Dinesh Bharadia, [SyncScatter: Enabling WiFi like synchronization and range for WiFi backscatter Communication](https://www.usenix.org/conference/nsdi21/presentation/dunna), USENIX NSDI, 2021.
 - Xin Liu, Zicheng Chi, Wei Wang, Yao Yao, Pei Hao, and Ting Zhu, [Verification and Redesign of OFDM Backscatter](https://www.usenix.org/conference/nsdi21/presentation/liu-xin), USENIX NSDI, 2021.
 - Q. Wang, S. Chen, J. Zhao and W. Gong, [RapidRider: Efficient WiFi Backscatter with Uncontrolled Ambient Signals](https://ieeexplore.ieee.org/abstract/document/9488716), IEEE INFOCOM, 2021.
