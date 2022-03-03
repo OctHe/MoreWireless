@@ -1,7 +1,5 @@
 ## MU-MIMO
 
-1. Minsung Kim, Salvatore Mandrà, Davide Venturelli, Kyle Jamieson, [Physics-Inspired Heuristics for Soft MIMO Detection in 5G New Radio and Beyond](https://arxiv.org/abs/2103.10561), ACM MobiCom, 2021.
-
 2. Huacheng Zeng, Hongxiang Li, and Qiben Yan, [Uplink MU-MIMO in Asynchronous Wireless LANs](https://dl.acm.org/doi/abs/10.1145/3209582.3209585), in ACM MobiHoc, 2018.
 
 3. Sanjib Sur, Ioannis Pefkianakis, Xinyu Zhang, and Kyu-Han Kim, [Practical MU-MIMO User Selection on 802.11ac Commodity Networks](https://dl.acm.org/doi/abs/10.1145/2973750.2973758), in ACM MobiCom, 2016.
