@@ -4,4 +4,5 @@ This topic is related to the researches of LoRa Networks and Long Range Communic
 
 - [Distributed LoRa](./distributed_lora.md)
 - [Parallel decoding](./parallel_decoding.md)
-- [LoRa others](./others.md)
+- [Adaptive LoRa link](./adaptive_lora.md)
+- [Learning-based LoRa](./learning_based_lora.md)
