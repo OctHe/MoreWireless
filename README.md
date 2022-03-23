@@ -9,7 +9,7 @@ The papers are mostly chosen from top conferences and transactions in the corres
 
 - [Wi-Fi](./WiFi)
     - [Distributed MIMO](./WiFi/distributed_mimo.md)
-    - [MU MIMO](./WiFi/mu_mimo.md)
+    - [MU-MIMO](./WiFi/mu_mimo.md)
     - [Cross-technology communications](./WiFi/CTC.md)
     - [Cross-band channel estimation](./WiFi/channel_estimation.md)
     - [Congestion controller](./WiFi/congestion_controller.md)
