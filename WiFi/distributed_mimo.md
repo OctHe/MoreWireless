@@ -2,13 +2,13 @@
 
 1. Kubra Alemdar, Divashree Varshney, Subhramoy Mohanti, Ufuk Muncuk, and Kaushik Chowdhury, [RFClock: Timing, Phase and Frequency Synchronization for Distributed Wireless Networks](https://dl.acm.org/doi/abs/10.1145/3447993.3448623), in ACM MobiCom, 2021.
 
-1. Adnan Quadri, Hossein Pirayesh, Pedram Kheirkhah Sangdeh, Huacheng Zeng, [TCCI: Taming Co-Channel Interference for Wireless LANs](https://dl.acm.org/doi/abs/10.1145/3397166.3409138), ACM MobiHoc, 2020.
-
 3. Yubo Yan, Panlong Yang, Jie Xiong, Xiang-Yang Li. [OpenCarrier: Breaking the User Limit for Uplink MU-MIMO Transmissions with Coordinated APs](https://dl.acm.org/doi/full/10.1145/3488382), ACM TOSN, 2021.
 
 1. H. Pirayesh, P. K. Sangdeh, Q. Yan and H. Zeng, [UD-MIMO: Uplink Distributed MIMO for Wireless LANs](https://ieeexplore.ieee.org/abstract/document/9491622), in IEEE SECON, 2021.
 
-1. R. Calvo-Palomino, H. Cordobés, F. Ricciato, D. Giustiniano and V. Lenders, [Collaborative Wideband Signal Decoding using Non-coherent Receivers](https://ieeexplore.ieee.org/abstract/document/8732539), in ACM/IEEE IPSN, 2019. 
+1. Adnan Quadri, Hossein Pirayesh, Pedram Kheirkhah Sangdeh, Huacheng Zeng, [TCCI: Taming Co-Channel Interference for Wireless LANs](https://dl.acm.org/doi/abs/10.1145/3397166.3409138), ACM MobiHoc, 2020.
+
+3. R. Calvo-Palomino, H. Cordobés, F. Ricciato, D. Giustiniano and V. Lenders, [Collaborative Wideband Signal Decoding using Non-coherent Receivers](https://ieeexplore.ieee.org/abstract/document/8732539), in ACM/IEEE IPSN, 2019. 
 
 1. Ezzeldin Hamed, Hariharan Rahul, and Bahar Partov, [Chorus: truly distributed distributed-MIMO](https://dl.acm.org/doi/abs/10.1145/3230543.3230578), in ACM SIGCOMM, 2018.
 
