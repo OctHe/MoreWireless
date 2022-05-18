@@ -1,5 +1,7 @@
 ## Parallel Decoding of LoRa
 
+1. Qian Chen and Jiliang Wang (Tsinghua University), [AlignTrack: Push the Limit of LoRa Collision Decoding](https://ieeexplore.ieee.org/abstract/document/9651985), ICNP 2021.
+
 1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, and Tao Gu, [PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities](https://dl.acm.org/doi/abs/10.1145/3447993.3483268), ACM MobiCom, 2021.
 
 1. Muhammad Osama Shahid, Millan Philipose, Krishna Chintalapudi, Suman Banerjee, and Bhuvana Krishnaswamy, [Concurrent Interference Cancellation : Decoding Multi-Packet Collisions in LoRa](https://dl.acm.org/doi/abs/10.1145/3452296.3472931), in ACM SIGCOMM, 2021.
