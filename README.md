@@ -7,13 +7,14 @@ The papers are mostly chosen from top conferences and transactions in the corres
 
 ## Paper List
 
-- [Wi-Fi](./WiFi)
-    - [Distributed MIMO](./WiFi/distributed_mimo.md)
-    - [MU-MIMO](./WiFi/mu_mimo.md)
-    - [Cross-technology communication](./WiFi/CTC.md)
-    - [Cross-band channel estimation](./WiFi/channel_estimation.md)
-    - [Congestion controller](./WiFi/congestion_controller.md)
-    - [Multi-process demodulation](./WiFi/multiprocess_demod.md)
+- [OFDM](./OFDM)
+    - [Distributed MIMO](./OFDM/distributed_mimo.md)
+    - [MU-MIMO](./OFDM/mu_mimo.md)
+    - [Cross-technology communication](./OFDM/CTC.md)
+    - [Cross-band channel estimation](./OFDM/channel_estimation.md)
+    - [Congestion controller](./OFDM/congestion_controller.md)
+    - [Multi-process demodulation](./OFDM/multiprocess_demod.md)
+    - [Acoustic OFDM system](./OFDM/acoustic_ofdm.md)
 - [LoRa](./LoRa)
     - [Distributed LoRa](./LoRa/distributed_lora.md)
     - [Parallel decoding](./LoRa/parallel_decoding.md)
