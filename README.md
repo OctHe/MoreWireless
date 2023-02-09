@@ -1,19 +1,19 @@
 # MoreWireless
 
-MoreWireless is a project to share awesome and new papers about wireless communications and computer networks.
+MoreWireless is a project to share awesome researches about wireless communication and computer network.
 
-The papers are mostly chosen from top conferences and transactions in the corresponding communities, including but not limited to SIGCOMM, MobiCom, MobiSys, SenSys in ACM, NSDI in USENIX, and INFOCOM, IPSN, ToN, TCOM, TMC, TWC, TOSN in IEEE.
+The papers are mostly chosen from top conferences and transactions in the corresponding communities, including but not limited to SIGCOMM, MobiCom, MobiSys, SenSys, TOSN in ACM, NSDI in USENIX, and INFOCOM, IPSN, ToN, TCOM, TMC, and TWC in IEEE.
 
 
 ## Paper List
 
 - [OFDM](./OFDM)
     - [Distributed MIMO](./OFDM/distributed_mimo.md)
-    - [MU-MIMO](./OFDM/mu_mimo.md)
+    - [MAC layer](./OFDM/mac.md)
     - [Cross-technology communication](./OFDM/CTC.md)
     - [Cross-band channel estimation](./OFDM/channel_estimation.md)
     - [Congestion controller](./OFDM/congestion_controller.md)
-    - [Multi-process demodulation](./OFDM/multiprocess_demod.md)
+    - [Demodulation](./OFDM/demodulation.md)
     - [Acoustic OFDM system](./OFDM/acoustic_ofdm.md)
 - [LoRa](./LoRa)
     - [Distributed LoRa](./LoRa/distributed_lora.md)

@@ -1,4 +1,4 @@
-## Cross-Technology Communications
+## Cross-Technology Communication
 
 Cross-technology communications (CTC) is a new communication paradigm that support direct communications among heterogeneous IoT devices with different protocols.
 CTC aims to implemented in commercial devices without any hardware modification.

@@ -1,4 +1,4 @@
-## MU-MIMO
+## MAC Layer
 
 1. Pedram Kheirkhah Sangdeh and Huacheng Zeng, [DeepMux: Deep-Learning-Based Channel Sounding and Resource Allocation for IEEE 802.11ax](https://ieeexplore.ieee.org/abstract/document/9448323/), IEEE JSAC, 2021
 
@@ -8,6 +8,6 @@
 
 3. Sanjib Sur, Ioannis Pefkianakis, Xinyu Zhang, and Kyu-Han Kim, [Practical MU-MIMO User Selection on 802.11ac Commodity Networks](https://dl.acm.org/doi/abs/10.1145/2973750.2973758), in ACM MobiCom, 2016.
 
-4. Adriana B. Flores, Sadia Quadri, and Edward W. Knightly, Rice University, [A scalable multi-user uplink for Wi-Fi](https://www.usenix.org/conference/nsdi16/technic,al-sessions/presentation/flores), in USENIX NSDI, 2016.
+4. Adriana B. Flores, Sadia Quadri, and Edward W. Knightly, Rice University, A scalable multi-user uplink for Wi-Fi, in USENIX NSDI, 2016.
 
 5. Bo Chen, Vivek Yenamandra, and Kannan Srinivasan, The Ohio State University, [FlexRadio: Fully Flexible Radios and Networks](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/chen), in USENIX NSDI, 2016.

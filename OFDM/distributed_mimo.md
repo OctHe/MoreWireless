@@ -12,6 +12,8 @@
 
 1. Ezzeldin Hamed, Hariharan Rahul, and Bahar Partov, [Chorus: truly distributed distributed-MIMO](https://dl.acm.org/doi/abs/10.1145/3230543.3230578), in ACM SIGCOMM, 2018.
 
+3. Huacheng Zeng, Hongxiang Li, and Qiben Yan, [Uplink MU-MIMO in Asynchronous Wireless LANs](https://dl.acm.org/doi/abs/10.1145/3209582.3209585), in ACM MobiHoc, 2018.
+
 1. Ezzeldin Hamed, Hariharan Rahul, Mohammed A. Abdelghany, and Dina Katabi, [Real-time Distributed MIMO Systems](https://dl.acm.org/doi/abs/10.1145/2934872.2934905), in ACM SIGCOMM, 2016.
 
 1. O. Abari, H. Rahul, D. Katabi and M. Pant, [AirShare: Distributed coherent transmission made seamless](https://ieeexplore.ieee.org/abstract/document/7218555), in IEEE INFOCOM, 2015.
