@@ -1,5 +1,7 @@
 ## MAC Layer
 
+1. Junxue Zhang, Chaoliang Zeng, Hong Zhang, Shuihai Hu, Kai Chen. [LiteFlow: towards high-performance adaptive neural networks for kernel datapath](https://dl.acm.org/doi/10.1145/3544216.3544229), ACM MobiCom, 2022
+
 1. Pedram Kheirkhah Sangdeh and Huacheng Zeng, [DeepMux: Deep-Learning-Based Channel Sounding and Resource Allocation for IEEE 802.11ax](https://ieeexplore.ieee.org/abstract/document/9448323/), IEEE JSAC, 2021
 
 1. Pedram Kheirkhah Sangdeh; Hossein Pirayesh; Aryan Mobiny; Huacheng Zeng, [LB-SciFi: Online Learning-Based Channel Feedback for MU-MIMO in Wireless LANs](https://ieeexplore.ieee.org/abstract/document/9259366), IEEE IPSN, 2020.
