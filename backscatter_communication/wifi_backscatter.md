@@ -1,6 +1,6 @@
 ## Wi-Fi Backscatter
 
-1. Songfan Li, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, and Li Lu, University of Electronic Science and Technology of China (UESTC); Mo Li, Nanyang Technological University (NTU). [https://www.usenix.org/conference/nsdi22/presentation/li-songfan](https://www.usenix.org/conference/nsdi22/presentation/li-songfan), USENIX NSDI 2022.
+1. Songfan Li, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, and Li Lu, University of Electronic Science and Technology of China (UESTC); Mo Li, Nanyang Technological University (NTU). [Passive DSSS: Empowering the Downlink Communication for Backscatter Systems](https://www.usenix.org/conference/nsdi22/presentation/li-songfan), USENIX NSDI 2022.
 1. Yifan Yang and Longzhi Yuan (University of Science and Technology of China); Jia Zhao (Simon Fraser University); Wei Gong (University of Science and Technology of China). [Content-agnostic backscatter from thin air](https://dl.acm.org/doi/abs/10.1145/3498361.3538930), MobiSys, 2022.
 1. Mohammad Rostami, Xingda Chen, Yuda Feng, Karthikeyan Sundaresan, and Deepak Ganesan, [MIXIQ: Re-thinking Ultra-low Power Receiver Design for Next-generation On-body Applications](https://dl.acm.org/doi/abs/10.1145/3447993.3483270), ACM MobiCom, 2021.
 1. Farzan Dehbashi, Ali Abedi, Tim Brecht, and Omid Abari, [Verification: Can WiFi Backscatter replace RFID?](https://dl.acm.org/doi/abs/10.1145/3447993.3448622), ACM MobiCom, 2021.
