@@ -3,6 +3,12 @@
 Cross-technology communications (CTC) is a new communication paradigm that support direct communications among heterogeneous IoT devices with different protocols.
 CTC aims to implemented in commercial devices without any hardware modification.
 
+1. Ruirong Chen, Wei Gao. [TransFi: emulating custom wireless physical layer from commodity wifi](https://dl.acm.org/doi/abs/10.1145/3498361.3538946), MobiSys 2022.
+
+1. Hsun-Wei Cho, Kang G.Shin. [FLEW: fully emulated wifi](https://dl.acm.org/doi/abs/10.1145/3495243.3517030), MobiCom 2022.
+
+1. Shuai Tong, Yangliang He, Yunhao Liu, Jiliang Wang. [De-spreading over the air: long-range CTC for diverse receivers with LoRa](https://dl.acm.org/doi/abs/10.1145/3495243.3560524), MobiCom 2022.
+
 1. Hsun-Wei Cho and Kang G. Shin, [BlueFi: Bluetooth Over WiFI](https://dl.acm.org/doi/abs/10.1145/3452296.3472920), ACM SIGCOMM, 2021.
 
 1. Woojae Jeong, Jinhwan Jung, Yuanda Wang, Shuai Wang, Seokwon Yang, Qiben Yan, Yung Yi, and Song Min Kim, [SDR receiver using commodity wifi via physical-layer signal reconstruction](https://dl.acm.org/doi/abs/10.1145/3372224.3419189), ACM MobiCom, 2020.

@@ -8,6 +8,7 @@
 
 ### BLE, FM, LTE, etc.
 
+- Junbo Zhang, Carnegie Mellon University; Elahe Soltanaghai, University of Illinois at Urbana-Champaign; Artur Balanuta, Reese Grimsley, Swarun Kumar, and Anthony Rowe, Carnegie Mellon University. [PLatter: On the Feasibility of Building-scale Power Line Backscatter](https://www.usenix.org/conference/nsdi22/presentation/zhang-junbo), USENIX NSDI 2022.
 - Mohamad Katanbaf, Ali Saffari, and Joshua R. Smith. [MultiScatter: Multistatic Backscatter Networking for Battery-free Sensors](https://dl.acm.org/doi/abs/10.1145/3485730.3485939), ACM SenSys, 2021.
 - Maolin Zhang, Si Chen, Jia Zhao, and Wei Gong, [Commodity-Level BLE Backscatter](https://dl.acm.org/doi/abs/10.1145/3458864.3466865), ACM MobiSys, 2021.
 - Zicheng Chi, Xin Liu, Wei Wang, Yao Yao, and Ting Zhu, [Leveraging Ambient LTE Traffic for Ubiquitous Passive Communication](https://dl.acm.org/doi/abs/10.1145/3387514.3405861), ACM SIGCOMM, 2020.
